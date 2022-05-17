@@ -1,0 +1,15 @@
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\bin\Debug\net6.0\EsketitDungeon.exe
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\bin\Debug\net6.0\EsketitDungeon.deps.json
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\bin\Debug\net6.0\EsketitDungeon.runtimeconfig.json
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\bin\Debug\net6.0\EsketitDungeon.dll
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\bin\Debug\net6.0\EsketitDungeon.pdb
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.csproj.AssemblyReference.cache
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.AssemblyInfoInputs.cache
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.AssemblyInfo.cs
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.csproj.CoreCompileInputs.cache
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.dll
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\refint\EsketitDungeon.dll
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.pdb
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\EsketitDungeon.genruntimeconfig.cache
+C:\Users\laza4\source\repos\EsketitDungeon\EsketitDungeon\obj\Debug\net6.0\ref\EsketitDungeon.dll
